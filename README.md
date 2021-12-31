@@ -32,5 +32,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishi47sharma&show_icons=true&locale=en&layout=compact" alt="rishi47sharma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishi47sharma&show_icons=true&locale=en" alt="rishi47sharma" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rishi47sharma&show_icons=true&locale=en" alt="rishi47sharma" /></p>
 
