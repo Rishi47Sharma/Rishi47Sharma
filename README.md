@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help to get **Internship**
 
-- ⚡ Fun fact [I love to sleep](I love to sleep)
+- ⚡ Fun fact  **I love to sleep**
 
-- 💬 Ask me about **tech related stuff**
+- 💬 Ask me about **Tech related stuff**
 
 - 📫 How to reach me **rishigolu321@gmail.com**
 
