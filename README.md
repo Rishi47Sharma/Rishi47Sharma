@@ -1,13 +1,13 @@
 ### Hi there, I'm Rishi 👋 
 
 
-## I'm a Student, Software Engineer,Programer !!
+## I'm a Student, Software Engineer, Programer !!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I Working On War Army Stratergy
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to get internship
+- 🥅 2021 Goals: Contribute to my projects
+- ⚡ Fun fact: I love to Sleep
 
 ### Connect with me:
 
