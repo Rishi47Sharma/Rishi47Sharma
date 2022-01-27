@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi47sharma&label=Profile%20views&color=0e75b6&style=flat" alt="rishi47sharma" /> </p>
 
-- 🔭 I’m currently working on **War Army Strategy**
+- 🔭 I’m currently working on **Mario Game**
 
 - 🌱 I’m currently learning **IT automation using python**
 
